@@ -1,4 +1,4 @@
-# gamepad-tester
+# GamePad Tester
 
 ## Demo Video 
 https://youtu.be/9nahJ7ZxzCA
