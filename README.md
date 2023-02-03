@@ -9,8 +9,13 @@ https://savacool-gamepad-tester.netlify.app/
 
 ## How to build
 
-```
-npm install
 
-npm run dev
-```
+    npm install
+
+    npm run dev
+
+  
+
+
+  
+
